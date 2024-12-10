@@ -1,5 +1,5 @@
-# Proiect-Machine-Learning
-# Proiect: Analiză Predicție Consum Energetic
+
+# Aplicație practica 1: Analiză predicție consum energetic
 
 ## Descrierea Proiectului
 Acest proiect are scopul de a prezice consumul energetic pe baza unor date istorice folosind diferite tehnici de învățare automată. În cadrul proiectului, am implementat mai multe modele de predicție, inclusiv:
