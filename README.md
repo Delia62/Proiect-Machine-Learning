@@ -9,12 +9,12 @@ Acest proiect are scopul de a prezice consumul energetic pe baza unor date istor
 
 În final evaluăm performanța fiecărui model folosind metrici precum RMSE (Root Mean Squared Error) și MAE (Mean Absolute Error).
 
-## Fișierele Proiectului
+## Fișierele proiectului
 - `proiect.py`: Scriptul Python care implementează modelele și evaluările.
 - `Raport.pdf`: Raportul detaliat cu explicații și analize.
 - `data/`: Directorul care conține fișierele de dataset.
 
-## Pașii Implementați în Proiect
+## Pașii implementați în proiect
 1. **Încărcarea și preprocesarea datelor**  
    Fișierele de date sunt încărcate și procesate prin eliminarea valorilor lipsă și conversia corectă a coloanelor de tip `object` în format numeric.
 
