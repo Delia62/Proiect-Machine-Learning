@@ -246,8 +246,8 @@ def plot_correlation_matrix(data, target_column):
 
 
 if __name__ == "__main__":
-    train_file = "C:\\Users\\Delia\\Documents\\GitHub\\Proiect-Machine-Learning\\antrenare_modified.csv"  # fisierul de antrenament
-    test_file = "C:\\Users\\Delia\\Documents\\GitHub\\Proiect-Machine-Learning\\decembrie.xlsx"  # fisierul de testare 
+    train_file = "C:\\Users\\Delia\\Documents\\GitHub\\Proiect-Machine-Learning\\data\\antrenare_modified.csv"  # Fisierul de antrenament
+    test_file = "C:\\Users\\Delia\\Documents\\GitHub\\Proiect-Machine-Learning\\data\\decembrie.xlsx"  # Fisierul de testare 
 
     train_data, test_data = load_train_test_data(train_file, test_file)
 
